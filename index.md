@@ -1,37 +1,27 @@
 ## Welcome to Jingjing Wang GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/djingwang/djingwang/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<table border="0">
+  <tr>
+    <td width="75%">
+      <h1>Name: Jingjing Wang</h1>
+      <p><b>Email: djingwang@suda.edu.cn</b></p>
+      <p><b>Profile: Assistant Professor at Natural Language Processing Lab, Soochow University, Suzhou, China.</b></p> 
+      <p><b>work with Prof. Guodong Zhou and Prof. Shoushan Li, for advancing Natural Language Processing and Artificial Intelligence technology to benefit humanity.</b></p> 
+    </td>
+    <td width="25%">
+      <img src="/DF5A775E-A9A3-49AC-B98B-E2212AC3D2D0.JPG" width="100%">
+    </td>
+  </tr>
+</table>
 
-### Markdown
+#### Paper：
+- 基于联合学习的问答情感分类方法 安明慧，沈忱林，李寿山
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### Master, 09/2018- Present Soochow University
 
-```markdown
-Syntax highlighted code block
+- Natural Language Processing Lab，Soochow University，SuZhou, China
 
-# Header 1
-## Header 2
-### Header 3
+#### Bachelor, 09/2014- 07/2018 Huaiyin Normal University
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/djingwang/djingwang/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- The School of Computer Science and Technology， Huai'an, China
