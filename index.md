@@ -10,7 +10,7 @@
       <p><b>Now work with Prof. Guodong Zhou and Prof. Shoushan Li, for advancing Natural Language Processing and Artificial Intelligence technology to benefit humanity.</b></p> 
     </td>
     <td width="25%">
-      <img src="/djingwang.jpg" width="100%">
+      <img src="/1.png" width="100%">
     </td>
   </tr>
 </table>
