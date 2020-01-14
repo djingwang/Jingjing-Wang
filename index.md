@@ -4,7 +4,7 @@
 <table border="0">
   <tr>
     <td width="75%">
-      <h1>Name: Jingjing Wang</h1>
+      <h1>Jingjing Wang</h1>
       <p><b>Email: djingwang@suda.edu.cn</b></p>
       <p><b>Profile: Assistant Professor at Natural Language Processing Lab, Soochow University, Suzhou, China.</b></p> 
       <p><b>Now work with Prof. Guodong Zhou and Prof. Shoushan Li, for advancing Natural Language Processing and Artificial Intelligence technology to benefit humanity.</b></p> 
